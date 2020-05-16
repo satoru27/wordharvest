@@ -1,12 +1,10 @@
 # wordharvest
 Program developed as an experiment/assignment for the UNICAMP's graduate course MO639 - Computer Security
 
-Experiment description:
+#Experiment description:
 
 EXP02
-Experiments must be done in groups of 1 or 2 students.
-
-Read the instructions carefully.
+...
 
 Develop a program in C, called wordharvest, which searches a file hierarchy for files and extract words from them.
 
