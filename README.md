@@ -4,7 +4,8 @@ Program developed as an experiment/assignment for the UNICAMP's graduate course 
 #Experiment description:
 
 EXP02
-...
+
+[...]
 
 Develop a program in C, called wordharvest, which searches a file hierarchy for files and extract words from them.
 
@@ -19,3 +20,5 @@ The file hierarchy used to start the search must be passed using the option -d a
 Consider, for example, the program being executed as follows: wordharvest -e txt:text:asc -d /tmp/ -o words_tmp. In this case the program must: search for files with the extensions .txt, .text and .asc; start the search from directory /tmp/; save the words found in the file words_tmp.
 
 Your program may call external commands, such as find.
+
+[...]
